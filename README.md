@@ -1,7 +1,7 @@
 # PDF-JS-Injector
 
-**Author:** Vicent Esteve Voltes  
-**Version:** 1.1  
+**Author:** Vicent510  
+**Version:** 1  
 **Language:** Python  
 **License:** MIT
 
